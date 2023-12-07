@@ -1,4 +1,4 @@
-### Hi there 👋
+Just started coding.
 
 <!--
 **irfy2k321/irfy2k321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
