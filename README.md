@@ -1,4 +1,4 @@
-Just started coding.
+Been a year since I started my journey as a programmer, and I am now somewhat proficient in C++ and Python.
 
 <!--
 **irfy2k321/irfy2k321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
